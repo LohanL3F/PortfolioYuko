@@ -1,0 +1,21 @@
+Codes couleurs :
+
+- 
+
+Obligations :
+
+- Toujours avoir les mêmes boutons pour naviguer de manière fluide
+- Crédits 
+- Mentions légales
+- Utiliser le site pour les couleurs 
+- Avoir un bon ratio de taille des polices
+- Mettre une def dans les "alt" des images
+- Faire notice du site
+
+SEO : 
+
+- Mettre un titre, une icone et favicon
+- Phrase qui résume le site (description)
+- Keywords 
+
+
